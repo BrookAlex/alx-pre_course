@@ -1,1 +1,1 @@
-Readme isn't empty, checker!
+Starting to code today, so cool
